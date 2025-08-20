@@ -1,6 +1,6 @@
 # Changelog
 
-## 6.0.1 - 2025-01-20
+## 6.0.1 - 2025-08-20
 
 - **FIX**: Flutter API compatibility fixes for Flutter 3.35.1 / Dart 3.9.0
   - Fixed AppBarTheme.of(context) return type from AppBarTheme to AppBarThemeData
